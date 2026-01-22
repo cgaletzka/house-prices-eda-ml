@@ -1,2 +1,11 @@
 # house-prices-eda-ml
-This repository contains jupyter notebook scripts to run an exploratory data analysis and machine learning workflow on the house prices dataset from kaggle.com
+This repository holds scripts and results data for an exploratory analysis and machine learning workflow for the Kaggle competition "House Prices - Advanced Regression Techniques".
+
+## Objective
+Predict house sale prices based on numeric and categorical data about the houses (e.g., year built, number of bathrooms, square footage) using supervised learning
+
+## Approach
+- Exploratory data analysis including (handling missing values, predictor correlation, feature engineering)
+- To-do: Machine learning workflow (comparing different models, tuning model parameters, feature selection)
+
+## Results

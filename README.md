@@ -10,3 +10,5 @@ Predict house sale prices based on numeric and categorical data about the houses
 - To-do: Add feature engineering, ensemble learning, visualize feature importance etc.
 - 
 ## Results
+
+As a baseline, the XGB Regressor had a cross-validated RMSE of 0.131 and a test RMSE of 0.133.

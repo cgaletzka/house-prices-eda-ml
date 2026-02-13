@@ -6,6 +6,7 @@ Predict house sale prices based on numeric and categorical data about the houses
 
 ## Approach
 - Exploratory data analysis including (handling missing values, uni-, bi-, and multivariate analyses)
-- To-do: Machine learning workflow (comparing different models, tuning model parameters, feature selection)
-
+- Machine learning workflow (XGBRegressor, grid search, cross-validation)
+- To-do: Add feature engineering, ensemble learning, visualize feature importance etc.
+- 
 ## Results

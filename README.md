@@ -10,7 +10,4 @@ Predict house sale prices based on numeric and categorical data about the houses
 
 ## Results
 
-As a baseline, the XGB Regressor had a cross-validated RMSE of 0.131 and a test RMSE of 0.133. The stack regressor (i.e., ensemble) had a test RMSE of 0.1234 (top 15%)
-
-To further improve model performance, the following can be done:
-- Add feature engineering, train on prediction confidence ratings, clip extreme values
+As a baseline, the XGB Regressor had a cross-validated RMSE of ~0.13. The final stack regressor had a test RMSE of ~0.12 (top 15%)
